@@ -1,0 +1,10 @@
+﻿global using Newtonsoft.Json;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using System.Linq.Expressions;
+global using Microsoft.EntityFrameworkCore;
+global using ProductService.Domain.Entities;
+global using ProductService.Domain.Pagination;
+global using ProductService.Domain.Pagination.QueryParams;
+global using System.ComponentModel;
+global using ProductService.Domain.Enums;
+global using Microsoft.AspNetCore.Identity;
